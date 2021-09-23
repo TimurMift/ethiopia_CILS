@@ -20,3 +20,8 @@
 
 ![image](https://user-images.githubusercontent.com/90916729/134578206-bd591a49-1666-4d77-8906-3a4752bb5d45.png)
 
+
+Ссылки на таблицу и опрос:
+* https://docs.google.com/spreadsheets/d/1Mbo1Zc_1MD3q7MrciXy7YQXf6oqDuJQJFqTWHTtbyhk/edit?resourcekey#gid=495092291
+* https://docs.google.com/forms/d/e/1FAIpQLSe6IXGkAMZWTdnAWIhjCkeN0iLxuYPy5IUzsZdsCHgTsRbQ7w/viewform?usp=sf_link
+
